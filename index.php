@@ -18,7 +18,8 @@
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
                 <link href="css/main.css" rel="stylesheet" type="text/css" />
-		
+		    <link rel="shortcut icon" href="images/gardeninfo_logo.png" type="image/x-icon" />
+
    	</head>
 	<body id="top" data-spy="scroll" data-target=".navbar-collapse">
 	<!-- start templatemo navigation -->
